@@ -1,11 +1,14 @@
 footer {
   color: var(--color3);
   height: 40px;
-  background-color: white;
+  background-color: mistyrose;
   display: flex;
   align-items: center;
   justify-content: flex-end;
   position: fixed;
   width: 100%;
   bottom: 0;
+  padding: 10px;
+  font-family: 'Space Mono', monospace;
+  font-size: large;
 }

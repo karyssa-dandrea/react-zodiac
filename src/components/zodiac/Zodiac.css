@@ -1,3 +1,9 @@
 .zodiac {
-  color: white;
+  color: midnightblue;
+  border: solid pink;
+  border-radius: 15%;
+  padding: 1.4rem;
+  background-color: papayawhip;
+  font-family: 'Space Mono', monospace;
+  font-size: large;
 }
