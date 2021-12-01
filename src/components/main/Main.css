@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+  background-size: cover;
+  align-content: center;
+  position: relative;
+  gap: 20px;
+  justify-content: center;
+  height: 850px;
+}
